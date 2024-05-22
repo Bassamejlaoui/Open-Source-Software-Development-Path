@@ -1,6 +1,20 @@
 # Software-Development
 Software systems are an inseparable part of the today’s business and economic world, as well as everyday life. Regardless of its through smartphone apps, smart home devices or complex online databases, software developers and the work that they do have a profound effect on the world.
 
+The Open Source online Bachelor’s study programme in Software Development establishes knowledge in three major areas related to computer science:
+
+- Software engineering (with courses covering data security and protection, IT service management and requirements engineering)
+
+- Programming and technology skills (with courses covering cloud programming, app and web-based development, data modelling and database systems)
+
+- Methodological work skills (with courses covering IT project management and methods of agile software development)
+
+***Once you’ve developed your foundations in all three areas, you’ll get a chance to explore more nuance topics according to your interest, from a wide range of electives focusing on artificial intelligence, the Internet of Things and Robotics and Production Engineering.***
+
+This programme includes an AI prompt engineering course, so you can learn how to use tools like ChatGPT best in your everyday life, work, and studies. 
+
+![image](https://github.com/mejbass/Software-Development/assets/130122304/99347888-e093-4607-9c79-e98caef741ee)
+
 ## Bachelor of Science in Software Development
 
 ### Year 1
